@@ -1,6 +1,8 @@
 <div align="center">
-  <h2><b>一个基于React和Three.js开发的智能3D装箱系统</b></h2>
-  <h2><b>An intelligent 3D container loading system developed based on React and Three.js</b></h2>
+  <h2>
+    <b>一个基于React和Three.js开发的智能3D装箱系统</b><br><br>
+    <b>An intelligent 3D container loading system developed based on React and Three.js</b>
+  </h2>
 </div>
 
 
