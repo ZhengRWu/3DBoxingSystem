@@ -1,0 +1,41 @@
+{
+  "title": "3D装箱系统",
+  "containerForm": {
+    "title": "容器设置",
+    "length": "长度",
+    "width": "宽度",
+    "height": "高度",
+    "setButton": "设置容器",
+    "validationError": "所有尺寸必须大于0"
+  },
+  "itemForm": {
+    "title": "添加物品",
+    "id": "物品ID",
+    "length": "长度",
+    "width": "宽度",
+    "height": "高度",
+    "quantity": "数量",
+    "addButton": "添加物品",
+    "validationErrorDimensions": "所有尺寸必须大于0",
+    "validationErrorQuantity": "数量必须大于0"
+  },
+  "actions": {
+    "pack": "开始装箱",
+    "reset": "重置所有"
+  },
+  "itemList": {
+    "title": "物品列表",
+    "noItems": "暂无物品"
+  },
+  "visualization": {
+    "title": "3D可视化",
+    "instructions": "操作提示: 按住鼠标左键旋转视角，右键平移，滚轮缩放"
+  },
+  "stats": {
+    "containerSize": "容器尺寸",
+    "placedItems": "已放置物品",
+    "unplacedItems": "未放置物品",
+    "volumeRatio": "容积率",
+    "notSet": "未设置"
+  }
+}

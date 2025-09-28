@@ -1,0 +1,41 @@
+{
+  "title": "3D Boxing System",
+  "containerForm": {
+    "title": "Container Settings",
+    "length": "Length",
+    "width": "Width",
+    "height": "Height",
+    "setButton": "Set Container",
+    "validationError": "All dimensions must be greater than 0"
+  },
+  "itemForm": {
+    "title": "Add Item",
+    "id": "Item ID",
+    "length": "Length",
+    "width": "Width",
+    "height": "Height",
+    "quantity": "Quantity",
+    "addButton": "Add Item",
+    "validationErrorDimensions": "All dimensions must be greater than 0",
+    "validationErrorQuantity": "Quantity must be greater than 0"
+  },
+  "actions": {
+    "pack": "Start Boxing",
+    "reset": "Reset All"
+  },
+  "itemList": {
+    "title": "Item List",
+    "noItems": "No items"
+  },
+  "visualization": {
+    "title": "3D Visualization",
+    "instructions": "Instructions: Hold left mouse button to rotate view, right button to pan, scroll wheel to zoom"
+  },
+  "stats": {
+    "containerSize": "Container Size",
+    "placedItems": "Placed Items",
+    "unplacedItems": "Unplaced Items",
+    "volumeRatio": "Volume Ratio",
+    "notSet": "Not Set"
+  }
+}
